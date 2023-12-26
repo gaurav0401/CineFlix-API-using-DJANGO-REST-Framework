@@ -1,4 +1,4 @@
-#CineFlix API using DJANGO REST Framework
+# CineFlix API using DJANGO REST Framework
 
 This is a movies API using the django REST framework, providing information on various movies and TV shows.
 
